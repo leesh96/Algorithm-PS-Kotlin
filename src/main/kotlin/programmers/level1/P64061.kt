@@ -2,6 +2,8 @@ package programmers.level1
 
 import java.util.*
 
+// 크레인 인형뽑기 게임
+
 class P64061 {
     fun solution(board: Array<IntArray>, moves: IntArray): Int {
         val crane = Array(board.size) { LinkedList<Int>() }

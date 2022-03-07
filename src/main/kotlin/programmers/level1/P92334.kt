@@ -2,6 +2,8 @@ package programmers.level1
 
 import java.util.*
 
+// 신고 결과 받기
+
 class P92334 {
     fun solution(idList: Array<String>, report: Array<String>, k: Int): IntArray {
         val reportList = report.distinct().map {

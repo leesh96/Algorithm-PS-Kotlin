@@ -1,5 +1,7 @@
 package programmers.level1
 
+// 로또의 최고 순위와 최저 순위
+
 class P77484 {
     fun solution(lottos: IntArray, winNums: IntArray): IntArray {
         return lottos.partition { it == 0 }.let { (zero, nonZero) ->

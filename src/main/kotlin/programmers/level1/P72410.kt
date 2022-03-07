@@ -1,5 +1,7 @@
 package programmers.level1
 
+// 신규 아이디 추천
+
 class P72410 {
     fun solution(newId: String): String {
         var answer: String = newId.lowercase()

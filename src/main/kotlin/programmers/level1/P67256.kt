@@ -2,6 +2,8 @@ package programmers.level1
 
 import kotlin.math.abs
 
+// 키패드 누르기
+
 class P67256 {
     fun solution(numbers: IntArray, hand: String): String {
         var curLeft = 3 to 0
