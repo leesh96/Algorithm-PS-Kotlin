@@ -16,3 +16,6 @@
 [모의고사](src/main/kotlin/programmers/level1/P42840.kt)  
 [체육복](src/main/kotlin/programmers/level1/P42862.kt)  
 [실패율(2019 카카오 공채)](src/main/kotlin/programmers/level1/P42889.kt)  
+[약수의 개수와 덧셈(월간 코드 챌린지 시즌2)](src/main/kotlin/programmers/level1/P77884.kt)  
+[3진법 뒤집기(월간 코드 챌린지 시즌1)](src/main/kotlin/programmers/level1/P68935.kt)  
+[두 개 뽑아서 더하기(월간 코드 챌린지 시즌1)](src/main/kotlin/programmers/level1/P68644.kt)  
