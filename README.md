@@ -21,4 +21,6 @@
 [두 개 뽑아서 더하기(월간 코드 챌린지 시즌1)](src/main/kotlin/programmers/level1/P68644.kt)  
 [2016년](src/main/kotlin/programmers/level1/P12901.kt)  
 [최소직사각형(위클리 챌린지)](src/main/kotlin/programmers/level1/P86491.kt)  
-[나머지가 1이 되는 수 찾기(월간 코드 챌린지 시즌3)](src/main/kotlin/programmers/level1/P87389.kt)
+[나머지가 1이 되는 수 찾기(월간 코드 챌린지 시즌3)](src/main/kotlin/programmers/level1/P87389.kt)  
+[부족한 금액 계산하기(위클리 챌린지)](src/main/kotlin/programmers/level1/P82612.kt)  
+[가운데 글자 가져오기](src/main/kotlin/programmers/level1/P12903.kt)
