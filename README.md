@@ -29,4 +29,6 @@
 [문자열 내 마음대로 정렬하기](src/main/kotlin/programmers/level1/P12915.kt)  
 [문자열 내림차순으로 배치하기](src/main/kotlin/programmers/level1/P12917.kt)  
 [문자열 다루기 기본](src/main/kotlin/programmers/level1/P12918.kt)  
-[서울에서 김서방 찾기](src/main/kotlin/programmers/level1/P12919.kt)
+[서울에서 김서방 찾기](src/main/kotlin/programmers/level1/P12919.kt)  
+[수박수박수박수박수박수?](src/main/kotlin/programmers/level1/P12922.kt)  
+[문자열을 정수로 바꾸기](src/main/kotlin/programmers/level1/P12925.kt)
