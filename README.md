@@ -31,4 +31,6 @@
 [문자열 다루기 기본](src/main/kotlin/programmers/level1/P12918.kt)  
 [서울에서 김서방 찾기](src/main/kotlin/programmers/level1/P12919.kt)  
 [수박수박수박수박수박수?](src/main/kotlin/programmers/level1/P12922.kt)  
-[문자열을 정수로 바꾸기](src/main/kotlin/programmers/level1/P12925.kt)
+[문자열을 정수로 바꾸기](src/main/kotlin/programmers/level1/P12925.kt)  
+[시저 암호](src/main/kotlin/programmers/level1/P12926.kt)  
+[약수의 합](src/main/kotlin/programmers/level1/P12928.kt)  
