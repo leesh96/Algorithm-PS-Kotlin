@@ -34,3 +34,7 @@
 [문자열을 정수로 바꾸기](src/main/kotlin/programmers/level1/P12925.kt)  
 [시저 암호](src/main/kotlin/programmers/level1/P12926.kt)  
 [약수의 합](src/main/kotlin/programmers/level1/P12928.kt)  
+[이상한 문자 만들기](src/main/kotlin/programmers/level1/P12930.kt)  
+[자릿수 더하기](src/main/kotlin/programmers/level1/P12931.kt)  
+[자연수 뒤집어 배열로 만들기](src/main/kotlin/programmers/level1/P12932.kt)  
+[정수 내림차순으로 배치하기](src/main/kotlin/programmers/level1/P12933.kt)
