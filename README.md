@@ -42,3 +42,7 @@
 [제일 작은 수 제거하기](src/main/kotlin/programmers/level1/P12935.kt)  
 [짝수와 홀수](src/main/kotlin/programmers/level1/P12937.kt)  
 [최대공약수와 최소공배수](src/main/kotlin/programmers/level1/P12940.kt)  
+[콜라츠 추측](src/main/kotlin/programmers/level1/P12943.kt)  
+[평균 구하기](src/main/kotlin/programmers/level1/P12944.kt)  
+[하샤드 수](src/main/kotlin/programmers/level1/P12947.kt)  
+[핸드폰 번호 가리기](src/main/kotlin/programmers/level1/P12948.kt)  
