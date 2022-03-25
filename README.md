@@ -46,3 +46,6 @@
 [평균 구하기](src/main/kotlin/programmers/level1/P12944.kt)  
 [하샤드 수](src/main/kotlin/programmers/level1/P12947.kt)  
 [핸드폰 번호 가리기](src/main/kotlin/programmers/level1/P12948.kt)  
+[행렬의 덧셈](src/main/kotlin/programmers/level1/P12950.kt)  
+[x만큼 간격이 있는 n개의 숫자](src/main/kotlin/programmers/level1/P12954.kt)  
+[직사각형 별찍기](src/main/kotlin/programmers/level1/P12969.kt)  
