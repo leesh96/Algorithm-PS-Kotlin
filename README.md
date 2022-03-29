@@ -54,4 +54,5 @@
 [문자열 압축(2020 카카오 공채)](src/main/kotlin/programmers/level2/P60057.kt)  
 [오픈채팅방(2019 카카오 공채)](src/main/kotlin/programmers/level2/P42888.kt)  
 [멀쩡한 사각형(Summer/Winter Coding(2019))](src/main/kotlin/programmers/level2/P62048.kt)  
-[기능개발](src/main/kotlin/programmers/level2/P42586.kt)
+[기능개발](src/main/kotlin/programmers/level2/P42586.kt)  
+[타겟 넘버](src/main/kotlin/programmers/level2/P43165.kt)
