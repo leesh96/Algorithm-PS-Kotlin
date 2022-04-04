@@ -57,4 +57,5 @@
 [기능개발](src/main/kotlin/programmers/level2/P42586.kt)  
 [타겟 넘버](src/main/kotlin/programmers/level2/P43165.kt)  
 [행렬 테두리 회전하기(2021 백엔드 데브매칭)](src/main/kotlin/programmers/level2/P77485.kt)  
-[메뉴 리뉴얼(2021 카카오 공채)](src/main/kotlin/programmers/level2/P72411.kt)
+[메뉴 리뉴얼(2021 카카오 공채)](src/main/kotlin/programmers/level2/P72411.kt)  
+[괄호 변환(2020 카카오 공채)](src/main/kotlin/programmers/level2/P60058.kt)
