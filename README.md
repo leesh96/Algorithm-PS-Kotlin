@@ -1,12 +1,27 @@
 # Algorithm-PS-Kotlin
 
+## 백준
+
+<details>
+  <summary>열기</summary>
+  <div markdown="1">
+
+  [2166번 다각형의 면적](src/main/kotlin/baekjoon/b2166/B2166.kt)  
+  [2239번 스도쿠](src/main/kotlin/baekjoon/b2239/B2239.kt)  
+  [2473번 세 용액](src/main/kotlin/baekjoon/b2473/B2473.kt)  
+  [9466번 텀 프로젝트](src/main/kotlin/baekjoon/b9466/B9466.kt)  
+  [13334번 철로](src/main/kotlin/baekjoon/b13334/B13334.kt)  
+
+  </div>
+</details>
+
 ## 프로그래머스
 
 ### Level1
 
 <details>
   <summary>열기</summary>
-  <div markdown = "1">
+  <div markdown="2">
 
   [신고 결과 받기(2022 카카오 공채)](src/main/kotlin/programmers/level1/P92334.kt)  
   [로또의 최고 순위와 최저 순위(2021 백엔드 데브매칭)](src/main/kotlin/programmers/level1/P77484.kt)  
@@ -63,6 +78,7 @@
 
 <details>
   <summary>열기</summary>
+  <div markdown="3">
 
   [문자열 압축(2020 카카오 공채)](src/main/kotlin/programmers/level2/P60057.kt)  
   [오픈채팅방(2019 카카오 공채)](src/main/kotlin/programmers/level2/P42888.kt)  
@@ -71,7 +87,8 @@
   [타겟 넘버](src/main/kotlin/programmers/level2/P43165.kt)  
   [행렬 테두리 회전하기(2021 백엔드 데브매칭)](src/main/kotlin/programmers/level2/P77485.kt)  
   [메뉴 리뉴얼(2021 카카오 공채)](src/main/kotlin/programmers/level2/P72411.kt)  
-  [괄호 변환(2020 카카오 공채)](src/main/kotlin/programmers/level2/P60058.kt)
+  [괄호 변환(2020 카카오 공채)](src/main/kotlin/programmers/level2/P60058.kt)  
+  [거리두기 확인하기(2021 카카오 인턴십)](src/main/kotlin/programmers/level2/P81302.kt)
   
   </div>
 </details>
