@@ -17,7 +17,8 @@
   [11505번 구간 곱 구하기](src/main/kotlin/baekjoon/b11505/B11505.kt)  
   [2548번 대표 자연수](src/main/kotlin/baekjoon/b2548/B2548.kt)  
   [10971번 외판원 순회](src/main/kotlin/baekjoon/b10971/B10971.kt)  
-  [10942번 팰린드롬?](src/main/kotlin/baekjoon/b10942/B10942.kt)
+  [10942번 팰린드롬?](src/main/kotlin/baekjoon/b10942/B10942.kt)  
+  [1138번 한 줄로 서기](src/main/kotlin/baekjoon/b1138/B1138.kt)
 
   </div>
 </details>
