@@ -18,7 +18,8 @@
   [2548번 대표 자연수](src/main/kotlin/baekjoon/b2548/B2548.kt)  
   [10971번 외판원 순회](src/main/kotlin/baekjoon/b10971/B10971.kt)  
   [10942번 팰린드롬?](src/main/kotlin/baekjoon/b10942/B10942.kt)  
-  [1138번 한 줄로 서기](src/main/kotlin/baekjoon/b1138/B1138.kt)
+  [1138번 한 줄로 서기](src/main/kotlin/baekjoon/b1138/B1138.kt)  
+  [10819번 차이를 최대로](src/main/kotlin/baekjoon/b10819/B10819.kt)
 
   </div>
 </details>
