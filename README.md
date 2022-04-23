@@ -21,7 +21,8 @@
   [1138번 한 줄로 서기](src/main/kotlin/baekjoon/b1138/B1138.kt)  
   [10819번 차이를 최대로](src/main/kotlin/baekjoon/b10819/B10819.kt)  
   [2210번 숫자판 점프](src/main/kotlin/baekjoon/b2210/B2210.kt)  
-  [15658번 연산자 끼워넣기 (2)](src/main/kotlin/baekjoon/b15658/B15658.kt)
+  [15658번 연산자 끼워넣기 (2)](src/main/kotlin/baekjoon/b15658/B15658.kt)  
+  [14620번 개화](src/main/kotlin/baekjoon/b14620/B14620.kt)
 
   </div>
 </details>
