@@ -22,7 +22,8 @@
   [10819번 차이를 최대로](src/main/kotlin/baekjoon/b10819/B10819.kt)  
   [2210번 숫자판 점프](src/main/kotlin/baekjoon/b2210/B2210.kt)  
   [15658번 연산자 끼워넣기 (2)](src/main/kotlin/baekjoon/b15658/B15658.kt)  
-  [14620번 개화](src/main/kotlin/baekjoon/b14620/B14620.kt)
+  [14620번 개화](src/main/kotlin/baekjoon/b14620/B14620.kt)  
+  [16922번 로마 숫자 만들기](src/main/kotlin/baekjoon/b16922/B16922.kt)
 
   </div>
 </details>
