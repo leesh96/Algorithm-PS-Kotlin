@@ -25,6 +25,7 @@
   [14620번 개화](src/main/kotlin/baekjoon/b14620/B14620.kt)  
   [16922번 로마 숫자 만들기](src/main/kotlin/baekjoon/b16922/B16922.kt)  
   [1297번 TV 크기](src/main/kotlin/baekjoon/b1297/B1297.kt)  
+  [11689번 GCD(n, k) = 1](src/main/kotlin/baekjoon/b11689/B11689.kt)
 
   </div>
 </details>
