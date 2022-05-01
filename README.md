@@ -27,7 +27,8 @@
   [1297번 TV 크기](src/main/kotlin/baekjoon/b1297/B1297.kt)  
   [11689번 GCD(n, k) = 1](src/main/kotlin/baekjoon/b11689/B11689.kt)  
   [12015번 가장 긴 증가하는 부분 수열 2](src/main/kotlin/baekjoon/b12015/B12015.kt)  
-  [1417번 국회의원 선거](src/main/kotlin/baekjoon/b1417/B1417.kt)
+  [1417번 국회의원 선거](src/main/kotlin/baekjoon/b1417/B1417.kt)  
+  [1026번 보물](src/main/kotlin/baekjoon/b1026/B1026.kt)
 
   </div>
 </details>
