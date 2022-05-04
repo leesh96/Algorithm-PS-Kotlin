@@ -30,7 +30,8 @@
   [1417번 국회의원 선거](src/main/kotlin/baekjoon/b1417/B1417.kt)  
   [1026번 보물](src/main/kotlin/baekjoon/b1026/B1026.kt)  
   [17086번 아기 상어 2](src/main/kotlin/baekjoon/b17086/B17086.kt)  
-  [2468번 안전 영역](src/main/kotlin/baekjoon/b2468/B2468.kt)
+  [2468번 안전 영역](src/main/kotlin/baekjoon/b2468/B2468.kt)  
+  [13335번 트럭](src/main/kotlin/baekjoon/b13335/B13335.kt)
 
   </div>
 </details>
