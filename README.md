@@ -32,7 +32,8 @@
   [17086번 아기 상어 2](src/main/kotlin/baekjoon/b17086/B17086.kt)  
   [2468번 안전 영역](src/main/kotlin/baekjoon/b2468/B2468.kt)  
   [13335번 트럭](src/main/kotlin/baekjoon/b13335/B13335.kt)  
-  [9613번 GCD 합](src/main/kotlin/baekjoon/b9613/B9613.kt)
+  [9613번 GCD 합](src/main/kotlin/baekjoon/b9613/B9613.kt)  
+  [18429번 근손실](src/main/kotlin/baekjoon/b18429/B18429.kt)
 
   </div>
 </details>
