@@ -36,7 +36,8 @@
   [18429번 근손실](src/main/kotlin/baekjoon/b18429/B18429.kt)  
   [16198번 에너지 모으기](src/main/kotlin/baekjoon/b16198/B16198.kt)  
   [10973번 이전 순열](src/main/kotlin/baekjoon/b10973/B10973.kt)
-  [2961번 도영이가 만든 맛있는 음식](src/main/kotlin/baekjoon/b2961/B2961.kt)
+  [2961번 도영이가 만든 맛있는 음식](src/main/kotlin/baekjoon/b2961/B2961.kt)  
+  [1058번 친구](src/main/kotlin/baekjoon/b1058/B1058.kt)
 
   </div>
 </details>
