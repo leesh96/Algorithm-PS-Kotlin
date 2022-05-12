@@ -38,7 +38,8 @@
   [10973번 이전 순열](src/main/kotlin/baekjoon/b10973/B10973.kt)
   [2961번 도영이가 만든 맛있는 음식](src/main/kotlin/baekjoon/b2961/B2961.kt)  
   [1058번 친구](src/main/kotlin/baekjoon/b1058/B1058.kt)  
-  [5212번 지구 온난화](src/main/kotlin/baekjoon/b5212/B5212.kt)
+  [5212번 지구 온난화](src/main/kotlin/baekjoon/b5212/B5212.kt)  
+  [2502번 떡 먹는 호랑이](src/main/kotlin/baekjoon/b2502/B2502.kt)
 
   </div>
 </details>
