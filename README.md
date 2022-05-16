@@ -39,7 +39,8 @@
   [2961번 도영이가 만든 맛있는 음식](src/main/kotlin/baekjoon/b2961/B2961.kt)  
   [1058번 친구](src/main/kotlin/baekjoon/b1058/B1058.kt)  
   [5212번 지구 온난화](src/main/kotlin/baekjoon/b5212/B5212.kt)  
-  [2502번 떡 먹는 호랑이](src/main/kotlin/baekjoon/b2502/B2502.kt)
+  [2502번 떡 먹는 호랑이](src/main/kotlin/baekjoon/b2502/B2502.kt)  
+  [2304번 창고 다각형](src/main/kotlin/baekjoon/b2304/B2304.kt)
 
   </div>
 </details>
