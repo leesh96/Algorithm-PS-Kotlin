@@ -40,7 +40,8 @@
   [1058번 친구](src/main/kotlin/baekjoon/b1058/B1058.kt)  
   [5212번 지구 온난화](src/main/kotlin/baekjoon/b5212/B5212.kt)  
   [2502번 떡 먹는 호랑이](src/main/kotlin/baekjoon/b2502/B2502.kt)  
-  [2304번 창고 다각형](src/main/kotlin/baekjoon/b2304/B2304.kt)
+  [2304번 창고 다각형](src/main/kotlin/baekjoon/b2304/B2304.kt)  
+  [1747번 소수&팰린드롬](src/main/kotlin/baekjoon/b1747/B1747.kt)
 
   </div>
 </details>
