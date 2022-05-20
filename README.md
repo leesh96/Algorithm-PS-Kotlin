@@ -43,7 +43,8 @@
   [2304번 창고 다각형](src/main/kotlin/baekjoon/b2304/B2304.kt)  
   [1747번 소수&팰린드롬](src/main/kotlin/baekjoon/b1747/B1747.kt)  
   [16926번 배열 돌리기 1](src/main/kotlin/baekjoon/b16926/B16926.kt)  
-  [16987번 계란으로 계란치기](src/main/kotlin/baekjoon/b16987/B16987.kt)
+  [16987번 계란으로 계란치기](src/main/kotlin/baekjoon/b16987/B16987.kt)  
+  [2810번 컵홀더](src/main/kotlin/baekjoon/b2810/B2810.kt)
 
   </div>
 </details>
