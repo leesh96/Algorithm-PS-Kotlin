@@ -46,7 +46,8 @@
   [16987번 계란으로 계란치기](src/main/kotlin/baekjoon/b16987/B16987.kt)  
   [2810번 컵홀더](src/main/kotlin/baekjoon/b2810/B2810.kt)  
   [2564번 경비원](src/main/kotlin/baekjoon/b2564/B2564.kt)  
-  [1052번 물병](src/main/kotlin/baekjoon/b1052/B1052.kt)
+  [1052번 물병](src/main/kotlin/baekjoon/b1052/B1052.kt)  
+  [16918번 봄버맨](src/main/kotlin/baekjoon/b16918/B16918.kt)
 
   </div>
 </details>
