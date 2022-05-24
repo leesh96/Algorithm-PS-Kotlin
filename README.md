@@ -47,7 +47,8 @@
   [2810번 컵홀더](src/main/kotlin/baekjoon/b2810/B2810.kt)  
   [2564번 경비원](src/main/kotlin/baekjoon/b2564/B2564.kt)  
   [1052번 물병](src/main/kotlin/baekjoon/b1052/B1052.kt)  
-  [16918번 봄버맨](src/main/kotlin/baekjoon/b16918/B16918.kt)
+  [16918번 봄버맨](src/main/kotlin/baekjoon/b16918/B16918.kt)  
+  [1790번 수 이어 쓰기 2](src/main/kotlin/baekjoon/b1790/B1790.kt)
 
   </div>
 </details>
