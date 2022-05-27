@@ -50,7 +50,8 @@
   [16918번 봄버맨](src/main/kotlin/baekjoon/b16918/B16918.kt)  
   [1790번 수 이어 쓰기 2](src/main/kotlin/baekjoon/b1790/B1790.kt)  
   [17609번 회문](src/main/kotlin/baekjoon/b17609/B17609.kt)  
-  [1254번 팰린드롬 만들기](src/main/kotlin/baekjoon/b1254/B1254.kt)
+  [1254번 팰린드롬 만들기](src/main/kotlin/baekjoon/b1254/B1254.kt)  
+  [16935번 배열 돌리기 3](src/main/kotlin/baekjoon/b16935/B16935.kt)
 
   </div>
 </details>
