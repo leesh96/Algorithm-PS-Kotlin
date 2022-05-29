@@ -52,7 +52,8 @@
   [17609번 회문](src/main/kotlin/baekjoon/b17609/B17609.kt)  
   [1254번 팰린드롬 만들기](src/main/kotlin/baekjoon/b1254/B1254.kt)  
   [16935번 배열 돌리기 3](src/main/kotlin/baekjoon/b16935/B16935.kt)  
-  [2002번 추월](src/main/kotlin/baekjoon/b2002/B2002.kt)
+  [2002번 추월](src/main/kotlin/baekjoon/b2002/B2002.kt)  
+  [2615번 오목](src/main/kotlin/baekjoon/b2615/B2615.kt)
 
   </div>
 </details>
