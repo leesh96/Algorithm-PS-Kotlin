@@ -53,7 +53,8 @@
   [1254번 팰린드롬 만들기](src/main/kotlin/baekjoon/b1254/B1254.kt)  
   [16935번 배열 돌리기 3](src/main/kotlin/baekjoon/b16935/B16935.kt)  
   [2002번 추월](src/main/kotlin/baekjoon/b2002/B2002.kt)  
-  [2615번 오목](src/main/kotlin/baekjoon/b2615/B2615.kt)
+  [2615번 오목](src/main/kotlin/baekjoon/b2615/B2615.kt)  
+  [9996번 한국이 그리울 땐 서버에 접속하지](src/main/kotlin/baekjoon/b9996/B9996.kt)
 
   </div>
 </details>
