@@ -54,7 +54,8 @@
   [16935번 배열 돌리기 3](src/main/kotlin/baekjoon/b16935/B16935.kt)  
   [2002번 추월](src/main/kotlin/baekjoon/b2002/B2002.kt)  
   [2615번 오목](src/main/kotlin/baekjoon/b2615/B2615.kt)  
-  [9996번 한국이 그리울 땐 서버에 접속하지](src/main/kotlin/baekjoon/b9996/B9996.kt)
+  [9996번 한국이 그리울 땐 서버에 접속하지](src/main/kotlin/baekjoon/b9996/B9996.kt)  
+  [15954번 인형들](src/main/kotlin/baekjoon/b15954/B15954.kt)
 
   </div>
 </details>
@@ -113,7 +114,7 @@
   [핸드폰 번호 가리기](src/main/kotlin/programmers/level1/P12948.kt)  
   [행렬의 덧셈](src/main/kotlin/programmers/level1/P12950.kt)  
   [x만큼 간격이 있는 n개의 숫자](src/main/kotlin/programmers/level1/P12954.kt)  
-  [직사각형 별찍기](src/main/kotlin/programmers/level1/P12969.kt)
+  [직사각형 별찍기](src/main/kotlin/programmers/level1/P12969.kt)  
     
   </div>
 </details>
