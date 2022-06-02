@@ -55,7 +55,8 @@
   [2002번 추월](src/main/kotlin/baekjoon/b2002/B2002.kt)  
   [2615번 오목](src/main/kotlin/baekjoon/b2615/B2615.kt)  
   [9996번 한국이 그리울 땐 서버에 접속하지](src/main/kotlin/baekjoon/b9996/B9996.kt)  
-  [15954번 인형들](src/main/kotlin/baekjoon/b15954/B15954.kt)
+  [15954번 인형들](src/main/kotlin/baekjoon/b15954/B15954.kt)  
+  [13414번 수강신청](src/main/kotlin/baekjoon/b13414/B13414.kt)
 
   </div>
 </details>
