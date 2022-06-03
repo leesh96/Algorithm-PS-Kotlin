@@ -56,7 +56,8 @@
   [2615번 오목](src/main/kotlin/baekjoon/b2615/B2615.kt)  
   [9996번 한국이 그리울 땐 서버에 접속하지](src/main/kotlin/baekjoon/b9996/B9996.kt)  
   [15954번 인형들](src/main/kotlin/baekjoon/b15954/B15954.kt)  
-  [13414번 수강신청](src/main/kotlin/baekjoon/b13414/B13414.kt)
+  [13414번 수강신청](src/main/kotlin/baekjoon/b13414/B13414.kt)  
+  [2659번 십자카드 문제](src/main/kotlin/baekjoon/b2659/B2659.kt)
 
   </div>
 </details>
