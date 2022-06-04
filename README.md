@@ -62,6 +62,17 @@
   </div>
 </details>
 
+### 문자열
+
+<details>
+  <summary>열기</summary>
+  <div markdown="4">
+
+  [15904번 UCPC는 무엇의 약자일까?](src/main/kotlin/baekjoon/strs/b15904/B15904.kt)
+
+  </div>
+</details>
+
 ## 프로그래머스
 
 ### Level1
