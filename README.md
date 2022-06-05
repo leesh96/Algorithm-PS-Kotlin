@@ -68,7 +68,9 @@
   <summary>열기</summary>
   <div markdown="4">
 
-  [15904번 UCPC는 무엇의 약자일까?](src/main/kotlin/baekjoon/strs/b15904/B15904.kt)
+  [15904번 UCPC는 무엇의 약자일까?](src/main/kotlin/baekjoon/strs/b15904/B15904.kt)  
+  [11656번 접미사 배열](src/main/kotlin/baekjoon/strs/b11656/B11656.kt)  
+  [1427번 소트인사이드](src/main/kotlin/baekjoon/strs/b1427/B1427.kt)
 
   </div>
 </details>
