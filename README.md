@@ -70,7 +70,8 @@
 
   [15904번 UCPC는 무엇의 약자일까?](src/main/kotlin/baekjoon/strs/b15904/B15904.kt)  
   [11656번 접미사 배열](src/main/kotlin/baekjoon/strs/b11656/B11656.kt)  
-  [1427번 소트인사이드](src/main/kotlin/baekjoon/strs/b1427/B1427.kt)
+  [1427번 소트인사이드](src/main/kotlin/baekjoon/strs/b1427/B1427.kt)  
+  [11478번 서로 다른 부분 문자열의 개수](src/main/kotlin/baekjoon/strs/b11478/B11478.kt)
 
   </div>
 </details>
