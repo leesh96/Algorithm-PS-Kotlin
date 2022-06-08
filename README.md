@@ -72,7 +72,8 @@
   [11656번 접미사 배열](src/main/kotlin/baekjoon/strs/b11656/B11656.kt)  
   [1427번 소트인사이드](src/main/kotlin/baekjoon/strs/b1427/B1427.kt)  
   [11478번 서로 다른 부분 문자열의 개수](src/main/kotlin/baekjoon/strs/b11478/B11478.kt)  
-  [1755번 숫자놀이](src/main/kotlin/baekjoon/strs/b1755/B1755.kt)
+  [1755번 숫자놀이](src/main/kotlin/baekjoon/strs/b1755/B1755.kt)  
+  [4889번 안정적인 문자열](src/main/kotlin/baekjoon/strs/b4889/B4889.kt)
 
   </div>
 </details>
