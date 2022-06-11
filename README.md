@@ -75,7 +75,8 @@
   [1755번 숫자놀이](src/main/kotlin/baekjoon/strs/b1755/B1755.kt)  
   [4889번 안정적인 문자열](src/main/kotlin/baekjoon/strs/b4889/B4889.kt)  
   [14405번 피카츄](src/main/kotlin/baekjoon/strs/b14405/B14405.kt)  
-  [20291번 파일 정리](src/main/kotlin/baekjoon/strs/b20291/B20291.kt)
+  [20291번 파일 정리](src/main/kotlin/baekjoon/strs/b20291/B20291.kt)  
+  [13413번 오셀로 재배치](src/main/kotlin/baekjoon/strs/b13413/B13413.kt)
 
   </div>
 </details>
