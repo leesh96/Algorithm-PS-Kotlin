@@ -79,7 +79,8 @@
   [13413번 오셀로 재배치](src/main/kotlin/baekjoon/strs/b13413/B13413.kt)  
   [9536번 여우는 어떻게 울지?](src/main/kotlin/baekjoon/strs/b9536/B9536.kt)   
   [14490번 백대열](src/main/kotlin/baekjoon/strs/b14490/B14490.kt)  
-  [13417번 카드 문자열](src/main/kotlin/baekjoon/strs/b13417/B13417.kt)
+  [13417번 카드 문자열](src/main/kotlin/baekjoon/strs/b13417/B13417.kt)  
+  [2870번 수학숙제](src/main/kotlin/baekjoon/strs/b2870/B2870.kt)
 
   </div>
 </details>
