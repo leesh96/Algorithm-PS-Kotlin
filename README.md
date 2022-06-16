@@ -82,7 +82,8 @@
   [13417번 카드 문자열](src/main/kotlin/baekjoon/strs/b13417/B13417.kt)  
   [2870번 수학숙제](src/main/kotlin/baekjoon/strs/b2870/B2870.kt)  
   [3568번 iSharp](src/main/kotlin/baekjoon/strs/b3568/B3568.kt)  
-  [16171번 나는 친구가 적다 (Small)](src/main/kotlin/baekjoon/strs/b16171/B16171.kt)
+  [16171번 나는 친구가 적다 (Small)](src/main/kotlin/baekjoon/strs/b16171/B16171.kt)  
+  [1013번 Contact](src/main/kotlin/baekjoon/strs/b1013/B1013.kt)
 
   </div>
 </details>
