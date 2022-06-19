@@ -85,7 +85,8 @@
   [16171번 나는 친구가 적다 (Small)](src/main/kotlin/baekjoon/strs/b16171/B16171.kt)  
   [1013번 Contact](src/main/kotlin/baekjoon/strs/b1013/B1013.kt)  
   [12904번 A와 B](src/main/kotlin/baekjoon/strs/b12904/B12904.kt)  
-  [1958번 LCS 3](src/main/kotlin/baekjoon/strs/b1958/B1958.kt)
+  [1958번 LCS 3](src/main/kotlin/baekjoon/strs/b1958/B1958.kt)  
+  [2671번 잠수함식별](src/main/kotlin/baekjoon/strs/b2671/B2671.kt)
 
   </div>
 </details>
