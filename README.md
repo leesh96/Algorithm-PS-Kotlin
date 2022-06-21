@@ -87,7 +87,8 @@
   [12904번 A와 B](src/main/kotlin/baekjoon/strs/b12904/B12904.kt)  
   [1958번 LCS 3](src/main/kotlin/baekjoon/strs/b1958/B1958.kt)  
   [2671번 잠수함식별](src/main/kotlin/baekjoon/strs/b2671/B2671.kt)  
-  [16120번 PPAP](src/main/kotlin/baekjoon/strs/b16120/B16120.kt)
+  [16120번 PPAP](src/main/kotlin/baekjoon/strs/b16120/B16120.kt)  
+  [7490번 0 만들기](src/main/kotlin/baekjoon/strs/b7490/B7490.kt)
 
   </div>
 </details>
