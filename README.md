@@ -89,7 +89,8 @@
   [2671번 잠수함식별](src/main/kotlin/baekjoon/strs/b2671/B2671.kt)  
   [16120번 PPAP](src/main/kotlin/baekjoon/strs/b16120/B16120.kt)  
   [7490번 0 만들기](src/main/kotlin/baekjoon/strs/b7490/B7490.kt)  
-  [2608번 로마 숫자](src/main/kotlin/baekjoon/strs/b2608/B2608.kt)
+  [2608번 로마 숫자](src/main/kotlin/baekjoon/strs/b2608/B2608.kt)   
+  [2800번 괄호 제거](src/main/kotlin/baekjoon/strs/b2800/B2800.kt)
 
   </div>
 </details>
