@@ -91,7 +91,9 @@
   [7490번 0 만들기](src/main/kotlin/baekjoon/strs/b7490/B7490.kt)  
   [2608번 로마 숫자](src/main/kotlin/baekjoon/strs/b2608/B2608.kt)   
   [2800번 괄호 제거](src/main/kotlin/baekjoon/strs/b2800/B2800.kt)  
-  [9324번 진짜 메시지](src/main/kotlin/baekjoon/strs/b9324/B9324.kt)
+  [9324번 진짜 메시지](src/main/kotlin/baekjoon/strs/b9324/B9324.kt)  
+  [16916번 부분 문자열](src/main/kotlin/baekjoon/strs/b16916/B16916.kt)  
+  [1701번 Cubeditor](src/main/kotlin/baekjoon/strs/b1701/B1701.kt)
 
   </div>
 </details>
