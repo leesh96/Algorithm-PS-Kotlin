@@ -93,7 +93,8 @@
   [2800번 괄호 제거](src/main/kotlin/baekjoon/strs/b2800/B2800.kt)  
   [9324번 진짜 메시지](src/main/kotlin/baekjoon/strs/b9324/B9324.kt)  
   [16916번 부분 문자열](src/main/kotlin/baekjoon/strs/b16916/B16916.kt)  
-  [1701번 Cubeditor](src/main/kotlin/baekjoon/strs/b1701/B1701.kt)
+  [1701번 Cubeditor](src/main/kotlin/baekjoon/strs/b1701/B1701.kt)  
+  [16172번 나는 친구가 적다 (Large)](src/main/kotlin/baekjoon/strs/b16172/B16172.kt)
 
   </div>
 </details>
