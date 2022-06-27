@@ -4,7 +4,7 @@
 
 <details>
   <summary>열기</summary>
-  <div markdown="1">
+  <div>
 
   [2166번 다각형의 면적](src/main/kotlin/baekjoon/b2166/B2166.kt)  
   [2239번 스도쿠](src/main/kotlin/baekjoon/b2239/B2239.kt)  
@@ -66,7 +66,7 @@
 
 <details>
   <summary>열기</summary>
-  <div markdown="4">
+  <div>
 
   [15904번 UCPC는 무엇의 약자일까?](src/main/kotlin/baekjoon/strs/b15904/B15904.kt)  
   [11656번 접미사 배열](src/main/kotlin/baekjoon/strs/b11656/B11656.kt)  
@@ -99,13 +99,24 @@
   </div>
 </details>
 
+### 트리
+
+<details>
+  <summary>열기</summary>
+  <div>
+
+  [15900번 나무 탈출](src/main/kotlin/baekjoon/trees/b15900/B15900.kt)
+
+  </div>
+</details>
+
 ## 프로그래머스
 
 ### Level1
 
 <details>
   <summary>열기</summary>
-  <div markdown="2">
+  <div>
 
   [신고 결과 받기(2022 카카오 공채)](src/main/kotlin/programmers/level1/P92334.kt)  
   [로또의 최고 순위와 최저 순위(2021 백엔드 데브매칭)](src/main/kotlin/programmers/level1/P77484.kt)  
@@ -162,7 +173,7 @@
 
 <details>
   <summary>열기</summary>
-  <div markdown="3">
+  <div>
 
   [문자열 압축(2020 카카오 공채)](src/main/kotlin/programmers/level2/P60057.kt)  
   [오픈채팅방(2019 카카오 공채)](src/main/kotlin/programmers/level2/P42888.kt)  
