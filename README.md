@@ -109,7 +109,8 @@
   [4803번 트리](src/main/kotlin/baekjoon/trees/b4803/B4803.kt)
   [11437번 LCA](src/main/kotlin/baekjoon/trees/b11437/B11437.kt)  
   [11438번 LCA 2](src/main/kotlin/baekjoon/trees/b11438/B11438.kt)  
-  [1761번 정점들의 거리](src/main/kotlin/baekjoon/trees/b1761/B1761.kt)
+  [1761번 정점들의 거리](src/main/kotlin/baekjoon/trees/b1761/B1761.kt)  
+  [3584번 가장 가까운 공통 조상](src/main/kotlin/baekjoon/trees/b3584/B3584.kt)
 
   </div>
 </details>
