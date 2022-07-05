@@ -119,6 +119,17 @@
   </div>
 </details>
 
+### DP
+
+<details>
+  <summary>열기</summary>
+  <div>
+
+  [1699번 제곱수의 합](src/main/kotlin/baekjoon/dp/b1699/B1699.kt)
+
+  </div>
+</details>
+
 ## 프로그래머스
 
 ### Level1
