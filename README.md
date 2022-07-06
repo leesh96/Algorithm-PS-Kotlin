@@ -125,7 +125,8 @@
   <summary>열기</summary>
   <div>
 
-  [1699번 제곱수의 합](src/main/kotlin/baekjoon/dp/b1699/B1699.kt)
+  [1699번 제곱수의 합](src/main/kotlin/baekjoon/dp/b1699/B1699.kt)  
+  [1309번 동물원](src/main/kotlin/baekjoon/dp/b1309/B1309.kt)
 
   </div>
 </details>
