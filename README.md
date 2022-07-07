@@ -59,7 +59,8 @@
   [13414번 수강신청](src/main/kotlin/baekjoon/b13414/B13414.kt)  
   [2659번 십자카드 문제](src/main/kotlin/baekjoon/b2659/B2659.kt)  
   [17610번 양팔저울](src/main/kotlin/baekjoon/b17610/B17610.kt)  
-  [2812번 크게 만들기](src/main/kotlin/baekjoon/b2812/B2812.kt)
+  [2812번 크게 만들기](src/main/kotlin/baekjoon/b2812/B2812.kt)  
+  [2589번 보물섬](src/main/kotlin/baekjoon/b2589/B2589.kt)
 
   </div>
 </details>
