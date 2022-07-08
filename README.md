@@ -60,7 +60,8 @@
   [2659번 십자카드 문제](src/main/kotlin/baekjoon/b2659/B2659.kt)  
   [17610번 양팔저울](src/main/kotlin/baekjoon/b17610/B17610.kt)  
   [2812번 크게 만들기](src/main/kotlin/baekjoon/b2812/B2812.kt)  
-  [2589번 보물섬](src/main/kotlin/baekjoon/b2589/B2589.kt)
+  [2589번 보물섬](src/main/kotlin/baekjoon/b2589/B2589.kt)  
+  [15824번 너 봄에는 캡사이신이 맛있단다](src/main/kotlin/baekjoon/b15824/B15824.kt)
 
   </div>
 </details>
