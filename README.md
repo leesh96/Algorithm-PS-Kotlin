@@ -64,7 +64,8 @@
   [15824번 너 봄에는 캡사이신이 맛있단다](src/main/kotlin/baekjoon/b15824/B15824.kt)  
   [10817번 세 수](src/main/kotlin/baekjoon/b10817/B10817.kt)  
   [2150번 Strongly Connected Component](src/main/kotlin/baekjoon/b2150/B2150.kt)  
-  [6549번 히스토그램에서 가장 큰 직사각형](src/main/kotlin/baekjoon/b6549/B6549.kt)
+  [6549번 히스토그램에서 가장 큰 직사각형](src/main/kotlin/baekjoon/b6549/B6549.kt)  
+  [1987번 알파벳](src/main/kotlin/baekjoon/b1987/B1987.kt)
 
   </div>
 </details>
