@@ -136,7 +136,8 @@
 
   [1699번 제곱수의 합](src/main/kotlin/baekjoon/dp/b1699/B1699.kt)  
   [1309번 동물원](src/main/kotlin/baekjoon/dp/b1309/B1309.kt)  
-  [11049번 행렬 곱셈 순서](src/main/kotlin/baekjoon/dp/b11049/B11049.kt)
+  [11049번 행렬 곱셈 순서](src/main/kotlin/baekjoon/dp/b11049/B11049.kt)  
+  [11055번 가장 큰 증가 부분 수열](src/main/kotlin/baekjoon/dp/b11055/B11055.kt)
 
   </div>
 </details>
