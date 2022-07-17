@@ -67,6 +67,7 @@
   [6549번 히스토그램에서 가장 큰 직사각형](src/main/kotlin/baekjoon/b6549/B6549.kt)  
   [1987번 알파벳](src/main/kotlin/baekjoon/b1987/B1987.kt)  
   [14428번 수열과 쿼리 16](src/main/kotlin/baekjoon/b14428/B14428.kt)
+  [4386번 별자리 만들기](src/main/kotlin/baekjoon/b4386/B4386.kt)
 
   </div>
 </details>
